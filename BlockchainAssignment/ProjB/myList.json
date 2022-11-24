@@ -1,0 +1,38 @@
+[
+  {
+    "data": "I\u0027m the genesis block!",
+    "randomSeed": "deef93",
+    "prevHash": "00000000",
+    "winningHash": "6f9e25b5eeac9a80bf204257b834561e1f0a51de5c60f8d321d94b1f8c32ed7e",
+    "uuid": "7ce6459f-d759-4d78-b212-cddc154313db",
+    "timeStamp": "2022-10-25 13:32:29.244",
+    "blockID": "7ce6459f-d759-4d78-b212-cddc154313db"
+  },
+  {
+    "data": "I\u0027m the second block!",
+    "randomSeed": "a50add",
+    "prevHash": "6f9e25b5eeac9a80bf204257b834561e1f0a51de5c60f8d321d94b1f8c32ed7e",
+    "winningHash": "2fb67649f8d050f22a05c7cd2fa79dbc0dca9c4ccf1631c0cdb8b0aa47f28b18",
+    "uuid": "92dee3ac-ec73-4f34-8e2e-fe65bf4c6511",
+    "timeStamp": "2022-10-25 13:32:33.867",
+    "blockID": "92dee3ac-ec73-4f34-8e2e-fe65bf4c6511"
+  },
+  {
+    "data": "I\u0027m the third block!",
+    "randomSeed": "1822bb",
+    "prevHash": "2fb67649f8d050f22a05c7cd2fa79dbc0dca9c4ccf1631c0cdb8b0aa47f28b18",
+    "winningHash": "7821b1d7154e1080c9e372e43fbbd7eb6bc4371ff0d4e2fef4645ead145192e3",
+    "uuid": "407814a2-55f7-4fa9-8cc4-c396bee18ca9",
+    "timeStamp": "2022-10-25 13:32:34.305",
+    "blockID": "407814a2-55f7-4fa9-8cc4-c396bee18ca9"
+  },
+  {
+    "data": "I\u0027m the fourth and final block! It\u0027s nice to meet you!",
+    "randomSeed": "38e4f3",
+    "prevHash": "7821b1d7154e1080c9e372e43fbbd7eb6bc4371ff0d4e2fef4645ead145192e3",
+    "winningHash": "a311aa50ee945b9efd95770e973d8f4ef2279ac447265161aa00b8b24c1a993f",
+    "uuid": "3dd54a38-c8cf-4abc-ab07-001df000cffa",
+    "timeStamp": "2022-10-25 13:32:41.707",
+    "blockID": "3dd54a38-c8cf-4abc-ab07-001df000cffa"
+  }
+]
